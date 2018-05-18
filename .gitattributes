@@ -1,0 +1,4 @@
+figures/anonymous_company-logo.eps filter=lfs diff=lfs merge=lfs -text
+figures/collegium-logo.eps filter=lfs diff=lfs merge=lfs -text
+figures/school-logo.eps filter=lfs diff=lfs merge=lfs -text
+figures/university-logo.eps filter=lfs diff=lfs merge=lfs -text
